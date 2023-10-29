@@ -1,0 +1,20 @@
+.first{
+    color: red;
+    background-color: pink;
+}
+
+.font-size-changed{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#two{
+    color: blue;
+    font-size: 20px;
+}
+
+#four{
+    font-weight: bold;
+    background-color: aqua;
+    font-size: 30px;
+}
